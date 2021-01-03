@@ -40,6 +40,7 @@ Pada tugas ini anda diminta untuk membuat sebuah project baru dengan nama tugas3
   - Buatlah state.
   - Buatlah 2 Function Untuk mengeset state yang telah di buat :
     - Di Dalam Salah Satu Function Tambahkan Kondisi :  
+    
     ```
     if (this.state.jumlah > 0) {
     //Tulis Code Anda
@@ -48,14 +49,15 @@ Pada tugas ini anda diminta untuk membuat sebuah project baru dengan nama tugas3
      alert("Jumlah Tidak Boleh Kurang Dari 0");
    }
    ```
+   ```
 
   - Buatlah 2 TouchableOpacity Lalu Ketika TouchableOpacity Ditekan Maka Akan Memanggil Function Yang Telah Dibuat.
     - Di Dalam TouchableOpacity Tambahkan Property Style.
     - Di Dalam Component TouchableOpacity Tambahkan Component Text Untuk Menampilkan Tulisan :
+  
   ```
   <TouchableOpacity>
-    <Text >//Masukkan Code Ande </Text>
-
+  <Text>//Masukkan Code Ande </Text>
   </TouchableOpacity>
   ```
 
