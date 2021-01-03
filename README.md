@@ -61,7 +61,7 @@ Pada tugas ini anda diminta untuk membuat sebuah project baru dengan nama tugas3
   </TouchableOpacity>
   ```
 
-    - Ketika Salah Satu TouchableOpacity Di Tekan  Ketika State Jumlah > 0 Maka Akan Menampilkan Pesan
+   - Ketika Salah Satu TouchableOpacity Di Tekan  Ketika State Jumlah > 0 Maka Akan Menampilkan Pesan
   - Tampilkan State Yang Telah Di Buat.
 3. Di Dalam Folder Component Buatlah File Dengan Nama Headers.js Dengan Ketentuan :
   - Buatlah Component Text Dengan Tulisan Tugas 3 React Native Lalu Tambahkan Property Style.
